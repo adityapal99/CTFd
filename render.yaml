@@ -38,4 +38,5 @@ services:
   - name: ctfd-redis
     type: redis
     plan: free
+    ipAllowList: []
 
